@@ -6,7 +6,7 @@ Refer to q1.1-2.2.pdf
 ### Question 2.3
 To replicate output
 ```
-cd libsvm && ./script.sh
+cd libsvm-mod && ./script.sh
 ```
 
 #### Test Accuracy
